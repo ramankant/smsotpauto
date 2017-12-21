@@ -5,8 +5,8 @@ package info.androidhive.smsverification.app;
  */
 public class Config {
     // server URL configuration
-    public static final String URL_REQUEST_SMS = "http://fccsouthasia.com/otpsend/request_sms.php";
-    public static final String URL_VERIFY_OTP = "http://fccsouthasia.com/otpsend/verify_otp.php";
+    public static final String URL_REQUEST_SMS = "http://fccsouthasia.com/otpsend/requestsss_sms.php";
+    public static final String URL_VERIFY_OTP = "http://fccsouthasia.com/otpsend/verifysss_otp.php";
 
     // SMS provider identification
     // It should match with your SMS gateway origin
